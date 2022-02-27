@@ -4337,8 +4337,8 @@ menu() {
 	echoContent red "\n=============================================================="
 	echoContent green "作者：华人老王"
 	echoContent green "当前版本：v2.5.52"
-	echoContent green "Github：https://github.com/123/v2ray-agent"
-	echoContent green "描述：八合一共存脚本\c"
+	echoContent green "整理集合所以主流形式开源方式"
+	echoContent green "描述：仅供海外华人测试学习使用不做他用\c"
 	showInstallStatus
 	echoContent red "\n=============================================================="
 	if [[ -n "${coreInstallType}" ]]; then
